@@ -1,0 +1,24 @@
+{
+  "name": "@shubham1802/my-datatable-package",
+  "version": "1.0.0",
+  "description": "Datatable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naroji18/react-data-table.git"
+  },
+  "author": "shubham naroji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naroji18/react-data-table/issues"
+  },
+  "homepage": "https://github.com/naroji18/react-data-table#readme",
+  "dependencies": {
+    "react-icons": "^5.2.1",
+    "react-paginate": "^8.2.0",
+    "react-table": "^7.8.0"
+  }
+}
